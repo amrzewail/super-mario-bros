@@ -1,5 +1,5 @@
 # Super Mario Bros. Clone
-A clone of Super Mario Bros, World 1-1. Made in Unity.
+A clone of Super Mario Bros, World 1-1. Made with Unity.
 
 ### Controls
 * Move: Left/Right Arrows
