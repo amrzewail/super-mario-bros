@@ -28,16 +28,16 @@ public class LegacyInput : MonoBehaviour, IInput
 
     public bool IsRunning()
     {
-        return Input.GetKey(KeyCode.LeftShift);
+        return Input.GetKey(KeyCode.Z);
     }
 
     public bool Jump()
     {
-        return Input.GetKeyDown(KeyCode.Space);
+        return Input.GetKeyDown(KeyCode.X);
     }
     public bool JumpHold()
     {
-        return Input.GetKey(KeyCode.Space);
+        return Input.GetKey(KeyCode.X);
     }
 
     public bool IsCrouching()
@@ -47,6 +47,6 @@ public class LegacyInput : MonoBehaviour, IInput
 
     public bool Shoot()
     {
-        return Input.GetKeyDown(KeyCode.LeftShift);
+        return Input.GetKeyDown(KeyCode.Z);
     }
 }

@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
         target = FindObjectOfType<Mario>().transform;
 
         var pos = transform.position;
-        pos.x = target.position.x + 12;
+        pos.x = target.position.x + 8;//12
         transform.position = pos;
     }
 

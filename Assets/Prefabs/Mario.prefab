@@ -332,7 +332,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 312382688134979287}
-  force: 5.7
+  force: 5.8
 --- !u!114 &6796930682314731079
 MonoBehaviour:
   m_ObjectHideFlags: 0
