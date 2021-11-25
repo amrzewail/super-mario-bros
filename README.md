@@ -3,9 +3,9 @@ A clone of Super Mario Bros, World 1-1. Made with Unity.
 
 ### Controls
 * Move: Left/Right Arrows
-* Jump: Space
-* Run: Left Shift
-* Fire Bullets: Click Left Shift
+* Jump: X
+* Run: Z
+* Fire Bullets: Click Z
 
 ### Assets
 * Sprites: http://www.mariouniverse.com/wp-content/img/sprites/nes/smb/misc-3.gif
